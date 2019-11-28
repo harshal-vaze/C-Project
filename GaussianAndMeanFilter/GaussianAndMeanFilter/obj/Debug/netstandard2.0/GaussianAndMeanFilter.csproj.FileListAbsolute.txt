@@ -1,0 +1,12 @@
+C:\Users\Harshal Vaze\source\Repos\se-dystsys-2018-2019-softwareengineering\My Project\GaussianAndMeanFilter\GaussianAndMeanFilter\bin\Debug\netstandard2.0\GaussianAndMeanFilter.deps.json
+C:\Users\Harshal Vaze\source\Repos\se-dystsys-2018-2019-softwareengineering\My Project\GaussianAndMeanFilter\GaussianAndMeanFilter\bin\Debug\netstandard2.0\GaussianAndMeanFilter.dll
+C:\Users\Harshal Vaze\source\Repos\se-dystsys-2018-2019-softwareengineering\My Project\GaussianAndMeanFilter\GaussianAndMeanFilter\obj\Debug\netstandard2.0\GaussianAndMeanFilter.csproj.CoreCompileInputs.cache
+C:\Users\Harshal Vaze\source\Repos\se-dystsys-2018-2019-softwareengineering\My Project\GaussianAndMeanFilter\GaussianAndMeanFilter\obj\Debug\netstandard2.0\GaussianAndMeanFilter.AssemblyInfoInputs.cache
+C:\Users\Harshal Vaze\source\Repos\se-dystsys-2018-2019-softwareengineering\My Project\GaussianAndMeanFilter\GaussianAndMeanFilter\obj\Debug\netstandard2.0\GaussianAndMeanFilter.AssemblyInfo.cs
+C:\Users\Harshal Vaze\source\Repos\se-dystsys-2018-2019-softwareengineering\My Project\GaussianAndMeanFilter\GaussianAndMeanFilter\obj\Debug\netstandard2.0\GaussianAndMeanFilter.csprojAssemblyReference.cache
+C:\Users\Harshal Vaze\source\Repos\se-dystsys-2018-2019-softwareengineering\My Project\GaussianAndMeanFilter\GaussianAndMeanFilter\bin\Debug\netstandard2.0\GaussianAndMeanCombined.cs
+C:\Users\Harshal Vaze\source\Repos\se-dystsys-2018-2019-softwareengineering\My Project\GaussianAndMeanFilter\GaussianAndMeanFilter\bin\Debug\netstandard2.0\GaussianFilter.cs
+C:\Users\Harshal Vaze\source\Repos\se-dystsys-2018-2019-softwareengineering\My Project\GaussianAndMeanFilter\GaussianAndMeanFilter\bin\Debug\netstandard2.0\MeanFilter.cs
+C:\Users\Harshal Vaze\source\Repos\se-dystsys-2018-2019-softwareengineering\My Project\GaussianAndMeanFilter\GaussianAndMeanFilter\bin\Debug\netstandard2.0\GaussianAndMeanFilter.pdb
+C:\Users\Harshal Vaze\source\Repos\se-dystsys-2018-2019-softwareengineering\My Project\GaussianAndMeanFilter\GaussianAndMeanFilter\obj\Debug\netstandard2.0\GaussianAndMeanFilter.dll
+C:\Users\Harshal Vaze\source\Repos\se-dystsys-2018-2019-softwareengineering\My Project\GaussianAndMeanFilter\GaussianAndMeanFilter\obj\Debug\netstandard2.0\GaussianAndMeanFilter.pdb
